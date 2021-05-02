@@ -5,6 +5,7 @@ package paquete1;
  * @author Jose Cordova
  */
 public class ProfesoresInstituto {
+    
     private String nombre;
     private String apellido;
     private double sueldoBasico;
